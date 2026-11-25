@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: Compound VALET
+message: "If you use this software, please cite it using the metadata from this file."
+type: software
+authors:
+  - family-names: Smith
+    given-names: Joan C.
+  - family-names: Sheltzer
+    given-names: Jason M.
+url: "https://compoundvalet.ai"
+license-url: "https://polyformproject.org/licenses/noncommercial/1.0.0"
+abstract: >-
+  Compound VALET (Verification Agent for Literature-based Evaluation of Targets)
+  is a multi-agent literature-verification pipeline for evaluating whether
+  published evidence supports a small-molecule compound's stated target, together
+  with Paper Query for checking compounds used in research manuscripts.

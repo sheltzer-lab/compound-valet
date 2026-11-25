@@ -1,0 +1,9 @@
+__pycache__/
+.pytest_cache/
+.DS_Store
+# Pipeline settings, database, logs, consensus runs and PubChem index
+.env
+data/compound_valet.db
+data/logs/
+data/consensus_work/
+data/pubchem/
